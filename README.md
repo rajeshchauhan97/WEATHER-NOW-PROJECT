@@ -34,7 +34,7 @@ A simple weather app for **Jamie (Outdoor Enthusiast)** to quickly check current
 ## 💻 Run Locally
 Clone the project:
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-now.git
+git clone: https://github.com/rajeshchauhan97
 cd weather-now
 npm install
 npm run dev
